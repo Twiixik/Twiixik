@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>- Building personal projects with React<br><br>👯 I'm looking to collaborate on<br>- Frontend projects using React<br>- UI/UX focused web applications<br><br>🤝 I'm looking for help with<br>- Expanding into backend development<br>- Getting started with C#<br><br>🌱 I'm currently learning<br>- C# and backend development<br>- Deepening my React knowledge<br><br>💬 Ask me about<br>- React, UI/UX design, frontend development<br><br>
+Digital Concept Development student passionate about frontend development & UX/UI design. Experienced with React, currently expanding into backend with C#. Open to internship opportunities in frontend or backend development! 🚀
 
 
 ## 🌐 Socials:
